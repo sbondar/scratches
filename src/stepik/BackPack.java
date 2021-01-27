@@ -56,6 +56,4 @@ class BackPack {
             return right;
         }
     }
-
-
 }
